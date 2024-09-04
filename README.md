@@ -1,5 +1,4 @@
-
-# Cyberfly Node 1-line command Installer
+# Cyberfly Node
 
 This script enables you to set up a Cyberfly Node effortlessly with a single command. It automates the process of cloning the repository, setting permissions, and running the installation script.
 
